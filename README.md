@@ -1,1 +1,3 @@
-# electron_shopping_list
+# Electron Shopping List
+
+Learning project. 
